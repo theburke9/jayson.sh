@@ -10,7 +10,5 @@ export default defineConfig({
     tailwindcss(),
     svgr()
   ],
-  server: {
-    allowedHosts: true
-  }
+  base: '/jayson.sh/'
 })
