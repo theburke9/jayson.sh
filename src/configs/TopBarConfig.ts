@@ -1,0 +1,1 @@
+export const textTopBarDurationEffect = 500;
